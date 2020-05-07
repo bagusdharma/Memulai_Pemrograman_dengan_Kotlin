@@ -1,0 +1,67 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Break and Continue/Break/build/
+/Control Flow/Break and Continue/Continue/build/
+/Control Flow/Break and Continue/Labels/build/
+/Control Flow/Enumeration/Enumeration/build/
+/Control Flow/Latihan/Latihan/build/
+/Control Flow/Range and For loop/ForEach/build/
+/Control Flow/Range and For loop/ForEachIndexed/build/
+/Control Flow/Range and For loop/Range/build/
+/Control Flow/Range and For loop/Range ForEach/build/
+/Control Flow/Range and For loop/Range with `in` Operator/build/
+/Control Flow/When Expression/Multiple statement in Condition block/build/
+/Control Flow/When Expression/When subject/build/
+/Control Flow/While and Do While/Infinite While/build/
+/Coroutines/Job dan Deferred/Contoh 4/build/
+/Coroutines/latihan/Latihan/build/
+/Coroutines/Memulai Coroutine/Contoh 1/build/
+/Coroutines/Memulai Coroutine/Contoh 2/build/
+/Coroutines/Memulai Coroutine/Contoh 3/build/
+/Data Class dan Collections/Collections/Collections/build/
+/Data Class dan Collections/Collections/Maps/build/
+/Data Class dan Collections/Collections Operations/find/build/
+/Data Class dan Collections/Data Class/Comparing data class/build/
+/Data Class dan Collections/Data Class/Copying data class objects/build/
+/Data Class dan Collections/Data Class/Data Class/build/
+/Data Class dan Collections/Data Class/Different data class with class/build/
+/Data Class dan Collections/Data Class/Modify the data class object/build/
+/Data Class dan Collections/Latihan/latihan/build/
+/Functional/Advanced Collection Function/Slice/build/
+/Functional/Extensions/Contoh 1/build/
+/Functional/Latihan/Latihan/build/
+/Functional/Library Helper/let/build/
+/Functional/Library Helper/run/build/
+/Functional/Member References/Property References/build/
+/Generics/Latihan/Latihan/build/
+/Generics/Variance/Contoh/build/
+/Kotlin Fundamental/Boolean/Conjuction/build/
+/Kotlin Fundamental/Data Type/Array Initialization/build/
+/Kotlin Fundamental/Data Type/Char in String/build/
+/Kotlin Fundamental/Data Type/Character/build/
+/Kotlin Fundamental/Data Type/Escaped String/build/
+/Kotlin Fundamental/Data Type/Raw String/build/
+/Kotlin Fundamental/Data Type/String/build/
+/Kotlin Fundamental/Data Type/Unicode String/build/
+/Kotlin Fundamental/Data Type/Update Array/build/
+/Kotlin Fundamental/Function/Function Initilization/build/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 1/build/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/build/
+/Kotlin Fundamental/If Expression/If/build/
+/Kotlin Fundamental/If Expression/If as a Expression/build/
+/Kotlin Fundamental/If Expression/If Else/build/
+/Kotlin Fundamental/If Expression/If Else If/build/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Kotlin Fundamental/Nullable Types/Nullable Types/build/
+/Kotlin Fundamental/Numbers/Number operation/build/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/build/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Safe Call Operator/build/
+/Kotlin Fundamental/String Template/String Template/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/build/
+/Object-Oriented/Abstract Class/Contoh/build/
+/Object-Oriented/Constructor/Contoh 3/build/
+/Object-Oriented/Exception Handling/Contoh 3/build/
+/Object-Oriented/Latihan/Latihan/build/
+/Object-Oriented/Visibility Modifiers/public/build/
